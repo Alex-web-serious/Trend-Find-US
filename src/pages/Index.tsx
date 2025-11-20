@@ -58,14 +58,7 @@ const Index = () => {
       {/* -------------------------------------------------- */}
       {/* HEADER */}
       {/* -------------------------------------------------- */}
-      <header className="bg-secondary text-secondary-foreground py-8 shadow">
-        <div className="container mx-auto px-4 text-center">
-          <h1 className="text-4xl md:text-5xl font-bold">Amazon Deals Hub</h1>
-          <p className="text-sm md:text-base mt-2 opacity-80">
-            Discover the best deals updated daily
-          </p>
-        </div>
-      </header>
+      
 
       {/* -------------------------------------------------- */}
       {/* SEARCH BAR */}
